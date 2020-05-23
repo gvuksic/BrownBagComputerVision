@@ -1,0 +1,6 @@
+table td, table td * {
+    vertical-align: top;
+}
+h3 {
+    color: #990000;
+}
